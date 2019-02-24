@@ -2,5 +2,8 @@
   "name": "@flydiverny/renovate-bug",
   "version": "1.0.1",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
