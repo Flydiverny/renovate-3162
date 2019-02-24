@@ -1,6 +1,7 @@
 {
   "name": "@flydiverny/renovate-bug",
   "version": "2.0.1",
+  "repository": "github:flydiverny/renovate-3162",
   "main": "index.js",
   "license": "UNLICENSED",
   "publishConfig": {
