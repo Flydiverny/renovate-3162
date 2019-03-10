@@ -2,7 +2,7 @@
   "name": "@flydiverny/renovate-bug-dep",
   "version": "1.1.2",
   "repository": "github:flydiverny/renovate-3162",
-  "main": "index2.js",
+  "main": "index3.js",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
